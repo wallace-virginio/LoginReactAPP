@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import { useState } from "react";
 
-import crgIMG from "./assets/cragea.png";
+import crgIMG from "./assets/logo.png";
 
 import "./style.css";
 
